@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1584" height="396" background-size="cover" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
+<img align="center" alt="coding" width="1584" height="350" background-size="cover" src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp">
 <h1 align="center">Hi 👋, I'm Aastha Shrestha</h1>
 <h3 align="center">Thrilled to be learning and growing in web development.</h3>
   
